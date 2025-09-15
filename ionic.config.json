@@ -1,0 +1,7 @@
+{
+  "name": "Blue Driver",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
